@@ -1,0 +1,9 @@
+data/
+dataset/
+*.csv
+*.pdf
+*.keras
+.env
+.venv/
+.ipynb_checkpoints/
+__pycache__/
